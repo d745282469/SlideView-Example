@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="slide_icon_0">\u2191</string>
+    <string name="slide_icon_1">\u2606</string>
+</resources>
